@@ -40,3 +40,6 @@ pnpm docs:preview
 ## 🤝 贡献指南
 
 欢迎提交 Issue 和 Pull Request 来完善这份教程！
+## 课件地址
+
+上面的代码，都放到了 [github](https://github.com/Faithree/vue-test-book) 上，欢迎点赞收藏，我会持续更新代码和文章，消息窗口我，或者直接加我 wechat: match124

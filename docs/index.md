@@ -27,7 +27,7 @@
 ### 最佳实践
 - [15. 实战 lodash](/best-practices/lodash)
 - [16. 实战 Element Plus 测试源码](/best-practices/element-plus)
-- [17. 测试理念](/best-practices/unit-test)
+- [17. 测试理念](/best-practices/best-test)
 - [18. 如何利用 Coze 编写单元测试](/best-practices/coze)
 
 ## 🚀 快速开始
