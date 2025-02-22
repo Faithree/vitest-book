@@ -48,7 +48,7 @@ export default defineConfig({
         items: [
           { text: '15.实战 lodash', link: '/best-practices/lodash' },
           { text: '16.实战 Element Plus 测试源码', link: '/best-practices/element-plus' },
-          { text: '17.测试理念', link: '/best-practices/unit-test' },
+          { text: '17.测试理念', link: '/best-practices/best-test' },
           { text: '18.如何利用 Coze 编写单元测试', link: '/best-practices/coze' }
         ]
       }
