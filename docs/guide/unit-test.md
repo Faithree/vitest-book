@@ -199,31 +199,3 @@ export default mergeConfig(
 ## 课件地址
 
 上面的代码，都放到了 [github](https://github.com/Faithree/vue-test-book) 上，欢迎点赞收藏，我会持续更新代码和文章，消息窗口我，或者直接加我 wechat: match124
-### 往期文章
-[完全掌握vue全家桶单元测试 : 1. 为什么需要前端测试](https://juejin.cn/post/7361651299102539802)
-
-[完全掌握vue全家桶单元测试 : 2. 搭建 vitest 环境](https://juejin.cn/post/7362734937214844982)
-
-[完全掌握vue全家桶单元测试 : 3. vitest 用法概览](https://juejin.cn/post/7363147365678743593)
-
-[完全掌握vue全家桶单元测试 : 4.断言常用方法](https://juejin.cn/post/7366075411167117362)
-
-[完全掌握vue全家桶单元测试 : 5.组件基本测试](https://juejin.cn/post/7367631026251153447)
-
-[完全掌握vue全家桶单元测试 : 6. 深入理解组件测试](https://juejin.cn/post/7371357451750735924)
-
-[完全掌握vue全家桶单元测试 : 7. 事件处理](https://juejin.cn/post/7372871883337400383)
-
-[完全掌握vue全家桶单元测试 : 8. mock 与替身技巧大全](https://juejin.cn/post/7381396887189504039)
-
-[完全掌握vue全家桶单元测试 : 9. timer 测试](https://juejin.cn/post/7388532214059204623)
-
-[完全掌握vue全家桶单元测试 :10. 如何测试浏览器原生方法](https://juejin.cn/post/7391745629876191232)
-
-如果你有疑惑或者更好的建议欢迎加我微信拉你进群一起学习和讨论
-
-![IMG_4595.JPG](https://p0-xtjj-private.juejin.cn/tos-cn-i-73owjymdk6/cff11aa7b9f6480ca41005857b79aeac~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5LmY6aOOZ2c=:q75.awebp?policy=eyJ2bSI6MywidWlkIjoiNDI0ODE2ODY1ODg5OTc0MSJ9&rk3s=f64ab15b&x-orig-authkey=f32326d3454f2ac7e96d3d06cdbb035152127018&x-orig-expires=1740818676&x-orig-sign=887xgG8YKGt%2FrqCDU5NKI2Mj5O0%3D)
-
-
-
-

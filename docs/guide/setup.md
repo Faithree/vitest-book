@@ -99,8 +99,3 @@
 
 上面的代码，都放到了 [github](https://github.com/Faithree/vue-test-book) 上，欢迎点赞收藏，我会持续更新代码和文章，消息窗口我，或者直接加我 wechat: match124
 
-
-
-如果你有疑惑或者更好的建议欢迎加我微信拉你进群一起学习和讨论
-
-![IMG_4595.JPG](https://p0-xtjj-private.juejin.cn/tos-cn-i-73owjymdk6/cff11aa7b9f6480ca41005857b79aeac~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5LmY6aOOZ2c=:q75.awebp?policy=eyJ2bSI6MywidWlkIjoiNDI0ODE2ODY1ODg5OTc0MSJ9&rk3s=f64ab15b&x-orig-authkey=f32326d3454f2ac7e96d3d06cdbb035152127018&x-orig-expires=1740818092&x-orig-sign=7yk5sU3ji8PQD%2FQhCNCG%2Fonk4hM%3D)
