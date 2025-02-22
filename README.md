@@ -3,6 +3,7 @@
 这是一个全面的 Vitest 测试教程，包含了从入门到进阶的各种测试场景和最佳实践。
 
 ## 🚀 快速开始
+在线观看地址：https://faithree.github.io/vitest-book/
 
 ```bash
 # 安装依赖
