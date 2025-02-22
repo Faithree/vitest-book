@@ -27,12 +27,12 @@ export default mergeConfig(
 
 我们打开 HelloWorld.spec.ts 组件，把 **Hello Vitest** 改成 **Hello Vitest1** ,命令行就会出现失败场景❌
 
-![image.png](2.3.jpg)
+![image.png](/2.3.jpg)
 
 
 单元测试配置的三种方式，可以具体讲一下
 
-![image.png](2.4.jpg)
+![image.png](/2.4.jpg)
 
 
 
@@ -73,7 +73,7 @@ pnpm run test:unit run  src/components/__tests__/HelloWorld.spec.ts
 
 然后执行 ```pnpm run preview:test```，会看到一个可视化的页面，页面会更加直观
 
-![image.png](2.5.jpg)
+![image.png](/2.5.jpg)
 
 
 
@@ -92,7 +92,7 @@ pnpm i @vitest/ui -D
 ```
 最后，你可以访问 Vitest UI 界面，通过 [`http://localhost:51204/__vitest__/`](http://localhost:51204/__vitest__/)
 
-![image.png](2.6.jpg)
+![image.png](/2.6.png)
 
 ## 覆盖率
 覆盖率就是你的测试代码覆盖你想测试的函数或者组件的比例，具体我们先不讲，后续再仔细讲解，我们先把他配置上去
@@ -104,11 +104,11 @@ coverage: {
 ```
 配置好之后，我们可以直接在 Vitest ui 上多一个图标，点击试试吧
 
-![image.png](2.7.jpg)
+![image.png](/2.7.jpg)
 
 
 
-![image.png](2.8.jpg)
+![image.png](/2.8.jpg)
 
 ## globals 
 我们在写单元测试的时候，每一个单元测试文件都需要引入测试框架 vitest，会很繁琐,例如
