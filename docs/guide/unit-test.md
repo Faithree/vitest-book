@@ -90,7 +90,7 @@ pnpm i @vitest/ui -D
 ```bash
 "vitest:ui": "vitest --ui",
 ```
-最后，你可以访问 Vitest UI 界面，通过 [`http://localhost:51204/__vitest__/`](http://localhost:51204/__vitest__/)
+最后，你可以访问 Vitest UI 界面，通过 `http://localhost:51204/__vitest__/`
 
 ![image.png](/2.6.png)
 

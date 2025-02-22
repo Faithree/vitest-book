@@ -1,7 +1,8 @@
 import { defineConfig } from 'vitepress'
-
+const base = "/vitest-book/";
 export default defineConfig({
   title: 'Vitest 测试指南',
+  base,  // 
   description: '全面的 Vitest 测试教程和最佳实践',
   head: [
     ['link', { rel: 'icon', href: '/logo.svg' }]
