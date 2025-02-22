@@ -11,7 +11,7 @@ export default defineConfig({
     logo: '/logo.svg',
     nav: [
       { text: '首页', link: '/' },
-      { text: 'GitHub', link: 'https://github.com/your-username/vitest-book' }
+      { text: 'GitHub', link: 'https://github.com/Faithree/vitest-book' }
     ],
     sidebar: [
       {
