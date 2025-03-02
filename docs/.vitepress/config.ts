@@ -40,16 +40,17 @@ export default defineConfig({
           { text: '11.vue-router 测试', link: '/advanced/vue-router-test' },
           { text: '12.vuex 测试', link: '/advanced/vuex-test' },
           { text: '13.piana 测试', link: '/advanced/pinia-test' },
-          { text: '14.jest 迁移到 vitest', link: '/advanced/jest' }
+          { text: '14.如何调试单元测试', link: '/advanced/debug' },
+          { text: '15.jest 迁移到 vitest', link: '/advanced/jest' }
         ]
       },
       {
         text: '最佳实践',
         items: [
-          { text: '15.实战 lodash', link: '/best-practices/lodash' },
-          { text: '16.实战 Element Plus 测试源码', link: '/best-practices/element-plus' },
-          { text: '17.测试理念', link: '/best-practices/best-test' },
-          { text: '18.如何利用 Coze 编写单元测试', link: '/best-practices/coze' }
+          { text: '16.实战 lodash', link: '/best-practices/lodash' },
+          { text: '17.实战 Element Plus 测试源码', link: '/best-practices/element-plus' },
+          { text: '18.测试理念', link: '/best-practices/best-test' },
+          { text: '19.如何利用 Coze 编写单元测试', link: '/best-practices/coze' }
         ]
       }
     ]
